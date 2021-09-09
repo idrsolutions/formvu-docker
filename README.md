@@ -24,6 +24,6 @@ To build the image from source, use the following steps.
 
 ## Documentation ## 
 
-[FormVu Cloud Documentation](https://support.idrsolutions.com/formvu/tutorials/cloud/)
-[FormVu Docker Documentation](https://support.idrsolutions.com/formvu/tutorials/cloud/docker)
+[FormVu Cloud Documentation](https://support.idrsolutions.com/formvu/tutorials/cloud/)  
+[FormVu Docker Documentation](https://support.idrsolutions.com/formvu/tutorials/cloud/docker)  
 [Contact IDRsolutions](https://www.idrsolutions.com/contact-us)
