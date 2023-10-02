@@ -1,0 +1,7 @@
+                        FormVu Docker Microservice
+                        ==========================
+
+Please visit the IDRSolutions FormVu microservice for the war file to use with this docker image:
+  * https://github.com/idrsolutions/formvu-microservice-example
+
+Copyright 2021 - 2023 IDRsolutions
