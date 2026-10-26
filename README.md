@@ -1,6 +1,6 @@
 # FormVu Docker Image #
 
-FormVu is a PDF Forms to HTML conversion tool to allow you to convert PDF Forms into standalone HTML with interactive form components. This docker image can be used to containerise FormVu making it accessible via a REST API which is perfect for cloud deployments.
+[FormVu](https://www.idrsolutions.com/formvu/) is a PDF Forms to HTML conversion tool to allow you to convert PDF Forms into standalone HTML with interactive form components. This docker image can be used to containerise FormVu making it accessible via a REST API which is perfect for cloud deployments.
 
 ## Getting Started ##
 
@@ -24,6 +24,6 @@ To build the image from source, use the following steps.
 
 ## Documentation ## 
 
-[FormVu Cloud Documentation](https://support.idrsolutions.com/formvu/host-a-web-service/)  
-[FormVu Docker Documentation](https://support.idrsolutions.com/formvu/host-docker-web-service/)  
+[FormVu Cloud Documentation](https://www.idrsolutions.com/docs/formvu/host-a-web-service/)  
+[FormVu Docker Documentation](https://www.idrsolutions.com/docs/formvu/host-docker-web-service/)  
 [Contact IDRsolutions](https://www.idrsolutions.com/contact-us)
